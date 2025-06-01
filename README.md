@@ -29,6 +29,14 @@ My journey spans life sciences consulting, incentive design, and now advanced an
 - 🧬 **[Disease Hotspot Prediction](https://github.com/adithya-ms/disease-hotspot-prediction)**: Built a Spark + Kafka pipeline to predict disease clusters using pollution & climate data.
 - 🤖 **[AI Crisis Intelligence System](https://github.com/adithya-ms/ai-crisis-response)**: NLP + graph-based model to support disaster response in smart cities.
 - 🔍 **[Healthcare RAG Assistant](https://github.com/adithya-ms/mediquery)**: Retrieval-Augmented Generation system for medical queries using Cohere + Pinecone.
+  
+----
+
+## 📊 GitHub Stats
+
+![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithya-ms&show_icons=true&theme=default&hide=prs&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-ms&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adithya-ms&theme=default)
 
 ---
 
