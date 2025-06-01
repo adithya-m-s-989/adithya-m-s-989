@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adithya M Sivakumar
+# Hi, I'm Adithya M Sivakumar
 
 🎓 MS in Business Analytics @ UC Davis  
 💼 Ex-ZS Associates | Data Science | Strategy & Analytics  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a data-driven problem solver with a passion for turning complex business challenges into actionable insights. With hands-on experience in statistical modeling, machine learning, and product analytics, I love building solutions that create real-world impact.
 
